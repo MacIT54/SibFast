@@ -1,0 +1,27 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 24px;
+}
+.logo {
+  width: 60px;
+}
+.rights {
+  color: var(--dark-sea);
+  font-size: 12px;
+  line-height: 15px;
+}
+.centers{
+  color: var(--dark-sea);
+  font-size: 12px;
+  line-height: 15px;
+}
+img{
+  height: 60px;
+  width: auto;;
+}
+
+
+
